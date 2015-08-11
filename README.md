@@ -1,6 +1,8 @@
 # whimsy
 > An addon to add some whimsperiments to your Firefox…
 
+> [Install Whimsy](https://addons.mozilla.org/en-us/firefox/addon/whimsycorn/).
+
 ## Prerequisites
 
 - [Mozilla Firefox, version 34 or later](https://www.mozilla.org/en-US/firefox/new/)
